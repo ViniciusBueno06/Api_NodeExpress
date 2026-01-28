@@ -56,7 +56,7 @@ api/
 
 1️ - Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/ViniciusBueno06/Api_NodeExpress.git
 cd api
 ```
 2️ - Instale as dependências
