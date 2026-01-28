@@ -18,7 +18,7 @@ API REST desenvolvida em **Node.js + Express + MySQL**, com foco em boas prátic
 ---
 
 ## Arquitetura do Projeto
-
+```
 api/
 ├── src/
 │   ├── config/        # Configurações (DB)
@@ -37,7 +37,7 @@ api/
 ├── index.js          # Ponto de entrada da aplicação
 ├── package.json
 └── README.md
-
+```
 
 ## 🛠️ Tecnologias Utilizadas
 
